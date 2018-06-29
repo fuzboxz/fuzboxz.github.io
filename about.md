@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Jozsef]({{"/content/me.jpg" | absolute_url | .photo }}){: .round .center}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### About Me
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+&nbsp; *Jozsef Ottucsak* is an application security engineer who is passionate about helping developers write secure code. &nbsp;In his freetime he enjoys breaking/making stuff, fiddling with electronics and synthesizers.
 
 
-[jekyll-organization]: https://github.com/jekyll
+#### Work Experience
+* Senior Security Engineer @ LogMeIn (US) 
+* Security Engineer @ LogMeIn (HU) 
+* IT Security Consultant @ Proyet Consulting/TRConsult (HU)
+* Technical Audience Marketing Trainee @ Microsoft (HU)
+* *For more details, please check my [LinkedIn]({{"https://www.linkedin.com/in/jozsefottucsak/"}}) profile...*
+
+#### Certifications
+* CCSKv4
+* CEH 
+* eCPPT
+* eMAPT
+* Vulnerability Management - Qualys
+* Policy Compliance and Web Application Scanning - Qualys
+* WhiteHat Certified Secure Developer
+* Microsoft Specialist - Programming in HTML5 with JavaScript and CSS3
+
+
+#### Education
+* Cybersecurity courses @ University of Maryland
+* Business Information Systems BSc @ Budapest Business School
+* Web Application Development @ Athene - Course - 2 years
