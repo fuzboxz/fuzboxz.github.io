@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-No content yet. Sorry about that. :(

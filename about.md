@@ -32,4 +32,4 @@ permalink: /about/
 #### Education
 * Cybersecurity courses @ University of Maryland
 * Business Information Systems BSc @ Budapest Business School
-* Web Application Development @ Athene - Course - 2 years
+* Web Application Development @ Athene
