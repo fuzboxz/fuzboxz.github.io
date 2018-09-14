@@ -19,6 +19,7 @@ permalink: /about/
 * *For more details, please check my [LinkedIn]({{"https://www.linkedin.com/in/jozsefottucsak/"}}) profile...*
 
 #### Certifications
+* OSCP
 * CCSKv4
 * CEH 
 * eCPPT
