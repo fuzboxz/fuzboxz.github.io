@@ -60,5 +60,5 @@ If something went wrong you should probably check the following first:
 * Does /dev/ttyUSB0 exist? Are you using non-'power only' USB cable?
 * Do you have read/write access to /dev/ttyUSB0?
 
-If you are still stuck follow the official steps for installing the toolchain and the development framework: [Setup Toolchain](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/#setup-toolchain) If that didn't work either, you probably should buy the pre-flashed ESP32 instead.
+If you are still stuck, follow the official steps for installing the toolchain and the development framework: [Setup Toolchain](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/#setup-toolchain) If that didn't work either, you probably should buy the pre-flashed ESP32 instead.
 
