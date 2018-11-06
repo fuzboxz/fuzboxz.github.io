@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BLE_CTF - Write-up
+categories: infosec
 ---
 
 ![BLECTF]({{"/content/posts/blectf.jpg" | absolute_url }}){: .center}
@@ -28,6 +29,7 @@ Both commands list the BLE devices nearby, although the *bleah* output provides 
 <br/>
 
 # Display score 
+
 To get our current score, we have to read the 0x002a handle. *gatttool* can do this, but it outputs the hex values instead of the ASCII characters, so you need to do some string magic first. 
 
 *bleah*, as far as I know, can't read from a single handle, but has an -e (--enumerate) flag that shows all the information for the handles. As this outputs a lot of information, I only did this during my initial recon.
@@ -42,6 +44,7 @@ To make my life easier, I set up a temporary alias for the *gatttool* command:
 <br/>
 
 # Send flag 
+
 Main difference between the two is that *gatttool* requires you to hexdump the ASCII, while *bleah* does this for you automatically. 
     
     sudo gatttool -b 24:0A:C4:08:D7:26 --char-write-req -a 0x002c -n $(echo -n "12345678901234567890"|xxd -ps)
@@ -52,6 +55,7 @@ For this usecase I prefered *bleah*, so I set up another alias:
     alias submitflag="sudo bleah -b 24:0A:C4:08:D7:26 -n 0x002c -d $1"
 
 <br/>
+
 # Challenges - spoilers ahead!
 
 As I checked the score, I knew that there are 20 flags total. The *bleah -e* command also revealed the text from all of the handles, so I decided to go through the challenges one-by-one.  

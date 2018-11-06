@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BLE_CTF - Setup, compilation and flashing
+categories: infosec
 ---
 
 I wanted to get into Bluetooth Low Energy for quite some time now, but due to my OSCP studies I had other priorities. Thankfully, last month I passed, so now I can focus a bit on IoT/hardware hacking and my first step was the [BLE_CTF](https://github.com/hackgnar/ble_ctf) project by [@hackgnar](https://twitter.com/hackgnar).
