@@ -12,6 +12,7 @@ permalink: /about/
 
 
 #### Work Experience
+* Senior Security Engineer @ TrueMotion (HU)
 * Senior Security Engineer @ LogMeIn (US) 
 * Security Engineer @ LogMeIn (HU) 
 * IT Security Consultant @ Proyet Consulting/TRConsult (HU)
