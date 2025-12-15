@@ -1,0 +1,44 @@
+baseURL = 'https://ottucsak.xyz/'
+languageCode = 'en-us'
+theme = 'hugo-theme-terminal'
+pagination.pagerSize = 5
+
+# Required for Chroma and the custom syntax highlighting.
+[markup.highlight]
+  noClasses = false
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = false
+  showLastUpdated = false
+  readingTime = true
+
+[languages]
+  [languages.en]
+    title = "ottucsak.xyz"
+    subtitle = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "ottucsak.xyz"
+      logoHomeLink = "/"
+
+    [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+
