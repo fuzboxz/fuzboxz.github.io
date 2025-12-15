@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on ottucsak.xyz</title><link>https://ottucsak.xyz/tags/</link><description>Recent content in Tags on ottucsak.xyz</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Dec 2025 18:32:45 +0100</lastBuildDate><atom:link href="https://ottucsak.xyz/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Ai</title><link>https://ottucsak.xyz/tags/ai/</link><pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate><guid>https://ottucsak.xyz/tags/ai/</guid><description/></item><item><title>Personal</title><link>https://ottucsak.xyz/tags/personal/</link><pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate><guid>https://ottucsak.xyz/tags/personal/</guid><description/></item><item><title>Tech</title><link>https://ottucsak.xyz/tags/tech/</link><pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate><guid>https://ottucsak.xyz/tags/tech/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ottucsak.xyz</title>
+    <link>https://ottucsak.xyz/tags/</link>
+    <description>Recent content in Tags on ottucsak.xyz</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Dec 2025 18:32:45 +0100</lastBuildDate>
+    <atom:link href="https://ottucsak.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://ottucsak.xyz/tags/ai/</link>
+      <pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate>
+      <guid>https://ottucsak.xyz/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://ottucsak.xyz/tags/personal/</link>
+      <pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate>
+      <guid>https://ottucsak.xyz/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://ottucsak.xyz/tags/tech/</link>
+      <pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate>
+      <guid>https://ottucsak.xyz/tags/tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal on ottucsak.xyz</title><link>https://ottucsak.xyz/tags/personal/</link><description>Recent content in Personal on ottucsak.xyz</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Dec 2025 18:32:45 +0100</lastBuildDate><atom:link href="https://ottucsak.xyz/tags/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://ottucsak.xyz/posts/hello-world/</link><pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate><guid>https://ottucsak.xyz/posts/hello-world/</guid><description>&lt;p&gt;I have not written anything publicly in almost seven years. At the time, I was living in California and spending most of my energy on IoT, hardware hacking, and offensive security. Since then, a lot has changed. I moved back to Europe, completed two degrees, and worked on dozens of interesting products across a wide range of technology stacks.&lt;/p&gt;
-&lt;p&gt;Over the past year, I have also found myself returning to small, exploratory projects—the kind driven more by curiosity than by roadmaps or deadlines. That has been the catalyst for restarting this blog. My goal is to share insights from those personal experiments, reflect on professional experiences, and occasionally explore the space in between.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on ottucsak.xyz</title>
+    <link>https://ottucsak.xyz/tags/personal/</link>
+    <description>Recent content in Personal on ottucsak.xyz</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Dec 2025 18:32:45 +0100</lastBuildDate>
+    <atom:link href="https://ottucsak.xyz/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://ottucsak.xyz/posts/hello-world/</link>
+      <pubDate>Mon, 15 Dec 2025 18:32:45 +0100</pubDate>
+      <guid>https://ottucsak.xyz/posts/hello-world/</guid>
+      <description>&lt;p&gt;I have not written anything publicly in almost seven years. At the time, I was living in California and spending most of my energy on IoT, hardware hacking, and offensive security. Since then, a lot has changed. I moved back to Europe, completed two degrees, and worked on dozens of interesting products across a wide range of technology stacks.&lt;/p&gt;&#xA;&lt;p&gt;Over the past year, I have also found myself returning to small, exploratory projects—the kind driven more by curiosity than by roadmaps or deadlines. That has been the catalyst for restarting this blog. My goal is to share insights from those personal experiments, reflect on professional experiences, and occasionally explore the space in between.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

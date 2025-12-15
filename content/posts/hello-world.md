@@ -20,4 +20,4 @@ Lately, much of my work—both professional and personal—has been adjacent to 
 
 At the same time, the current hype cycle has brought its share of problems: bots and propaganda, increasingly convincing deepfakes, vast resources sunk into dead-end projects, infrastructure strain, and a wave of AI evangelism from executives convinced that everyone and everything is replaceable.
 
-Still, I am optimistic. Once the noise subsides, I believe the technology will settle into something more useful and more human. If we are intentional about it, we—the people actually building and using these systems—can shape them to work for us rather than the other way around.
+That said, I remain optimistic. When the hype quiets down and the bubble pops, I expect a new generation of innovators to use these tools in ways that are actually sustainable.
