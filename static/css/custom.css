@@ -1,0 +1,5 @@
+/* Local CSS overrides for Terminal theme */
+
+.container.full, .container.center {
+  margin: 0 auto;
+}
